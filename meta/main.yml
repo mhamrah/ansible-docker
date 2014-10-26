@@ -100,8 +100,8 @@ galaxy_info:
   # Below are all categories currently available. Just as with
   # the platforms above, uncomment those that apply to your role.
   #
-  #categories:
-  #- cloud
+  categories:
+  - cloud
   #- cloud:ec2
   #- cloud:gce
   #- cloud:rax
